@@ -1,0 +1,68 @@
+body{
+  background: #eee;
+}
+
+h1{
+  position: absolute;
+  text-align: center!important;
+  width: 100%;
+  top: 40%;
+  text-shadow: white 4px 0px 5px;
+}
+p{
+  position: absolute;
+  text-align: center!important;
+  width: 100%;
+  font-size: 140%;
+  top: 50%;
+  text-shadow: white 4px 0px 5px;
+}
+.season-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.fall {
+  background-color: aliceblue;
+  background-image: url(https://www.protectamerica.com/home-security-blog/wp-content/uploads/2019/08/Fall-Season.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+.spring {
+  background-color: aliceblue;
+  background-image: url(https://cdn.britannica.com/05/155405-050-F8969EE6/Spring-flowers-fruit-trees-bloom.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+
+.autumn {
+  background-color: aliceblue;
+  background-image: url(https://www.protectamerica.com/home-security-blog/wp-content/uploads/2019/08/Fall-Season.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+.winter {
+  background-color: aliceblue;
+  background-image: url(https://previews.123rf.com/images/swkunst/swkunst1712/swkunst171200302/92223669-beautiful-winter-landscape-with-snow-covered-trees-winter-background-.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+
+.summer {
+  background-color: orange;
+  background-image: url(https://images-na.ssl-images-amazon.com/images/I/81eG9m1DmAL._AC_SL1500_.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
